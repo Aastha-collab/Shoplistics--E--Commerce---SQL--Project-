@@ -37,11 +37,11 @@
 
 ### ER Diagram
 
-
+https://github.com/Aastha-collab/Shoplistics--E--Commerce---SQL--Project-/blob/main/ER%20Diagram.png
 
 ---
 
-### ▶️ How to Run
+###  How to Run
 
 1. Import the dataset (`shoplistics_db.xlsx`) into MySQL Workbench.
 2. Run the schema and queries from the `.sql` file.
@@ -65,6 +65,8 @@ GROUP BY o.Coupon_Applied;
 -- Insight:Coupon applied on 8161 orders and not applied on 8499 orders which shows slightly more orders happen without a coupon.
 --         Higher revenue comes without coupons and coupons did not increase overall sales or revenue. 
 
+---
+
 eg- Monthly Repeat Purchase Rate
 
 SELECT 
@@ -83,6 +85,8 @@ GROUP BY DATE_FORMAT(o.Order_Date, '%Y-%m')
 ORDER BY Month;
 
 -- Insight: Shows no. of customers buy again within months.
+
+---
 
 eg- Churn Risk Customers (High Returns)
 

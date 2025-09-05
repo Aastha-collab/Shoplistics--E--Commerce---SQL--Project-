@@ -38,7 +38,7 @@
 ### ER Diagram
 
 https://github.com/Aastha-collab/Shoplistics--E--Commerce---SQL--Project-/blob/main/ER%20Diagram.png
-
+ER Diagram.png
 ---
 
 ###  How to Run

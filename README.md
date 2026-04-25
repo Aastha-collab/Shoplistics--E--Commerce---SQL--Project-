@@ -24,7 +24,7 @@
 
 ---
 
-### 💡 Business Insights
+### Business Insights
 
 * Top 5 Most Purchased Products
 * High-value customers (loyalty tiers & spending)
